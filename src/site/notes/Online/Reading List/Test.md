@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/online/reading-list/test/"}
+{"dg-publish":true,"permalink":"/online/reading-list/test/","tags":["gardenEntry"]}
 ---
 
 # Start
